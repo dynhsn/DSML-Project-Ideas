@@ -1,0 +1,32 @@
+1. Telco Customer Churn Prediction
+Predict customer churn using Logistic Regression + Decision Tree. Classification, business-focused, beginner-friendly.
+
+2. House Price Prediction
+Predict housing prices using Linear Regression. Strong for practicing regression metrics (RMSE, R²) instead of classification metrics — good contrast project.
+
+3. Employee Attrition Prediction
+Predict whether an employee will leave a company (IBM HR Analytics dataset). Similar to churn but HR-flavored — good for students targeting non-tech industries.
+
+4. Loan Approval / Credit Risk Prediction
+Predict loan approval or default risk from applicant financial data. Messy real-world data with lots of missing values — strong feature engineering practice, and a common fintech interview topic.
+
+5. Heart Disease / Diabetes Risk Prediction
+Predict presence of disease from medical indicators (age, BP, cholesterol, etc.). Popular healthcare dataset, teaches students to be careful about recall (missing a sick patient is costly) — great tie-in to the precision/recall lecture.
+
+6. Mall Customer Segmentation
+Unsupervised capstone — use K-Means to segment customers by income and spending score, then profile each segment with business recommendations. Good for a student who wants a clustering-focused capstone instead of classification.
+
+7. Sales Forecasting & Dashboard
+Analyze a retail sales dataset — trends by month/region/product, build a simple regression model to forecast next month's sales, and present findings as a mini dashboard (charts). Strong storytelling/visualization-heavy capstone.
+
+8. Movie/Streaming Recommendation System (Content-Based)
+Build a simple content-based recommender using genre/rating similarity (not full collaborative filtering — keep it beginner-appropriate). Different flavor from prediction-based capstones, good for students interested in media/entertainment.
+
+9. Fake News / Spam Detection
+Classify text messages or news headlines as spam/real using basic NLP (CountVectorizer/TfidfVectorizer) + Logistic Regression. Introduces text data — a good stretch project for stronger students, since it's slightly beyond the syllabus's structured-data focus.
+
+10. Student Performance Prediction
+Predict exam pass/fail or final grade from study hours, attendance, parental education, etc. Very relatable dataset, easy for students to explain confidently in interviews since they understand the domain deeply.
+
+11. Airline / Flight Delay Prediction
+Predict whether a flight will be delayed using weather, airline, and route data. Great real-world messy dataset with strong categorical feature engineering practice (airlines, airports, weather conditions).
