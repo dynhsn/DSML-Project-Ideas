@@ -1,4 +1,4 @@
-# 📊 Data Science Capstone Project Ideas
+# 📊 Data Science & Machine Learning Capstone Project Ideas
 
 A curated list of **11 beginner-to-intermediate capstone project ideas** for data science students. Each project includes its problem type, recommended algorithms, and the key skills it develops — ideal for building a portfolio or preparing for interviews.
 
