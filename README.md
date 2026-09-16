@@ -100,6 +100,14 @@ A curated list of **11 beginner-to-intermediate capstone project ideas** for dat
 
 ---
 
+## 👤 Author
+
+**Dayyan Hasan**
+- **GitHub:** [@dynhsn](https://github.com/dynhsn)
+- **LinkedIn:** [Dayyan Hasan](https://www.linkedin.com/in/dayyanhasan57)
+
+---
+
 ## 📄 License
 
 Open for use in coursework, portfolios, and teaching material. Attribution appreciated.
